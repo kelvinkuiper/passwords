@@ -1,4 +1,4 @@
-
+<h1>Wachtwoorden opslaan in PHP</h1>
 <?php
 $password = 'dadada';
 echo 'Password: ' . $password . '<br >';
